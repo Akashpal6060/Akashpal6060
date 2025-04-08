@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a curious builder, coder, and researcher exploring the
 
 ### 🧠 About Me
 - 🔭 I’m currently working on **Hyperbolic Semantic Segmentation using SegFormer with Continual Test-Time Adaptation**
-- 🌱 I’m currently learning **FastAPI, Node.js**, and deep-diving into **public health informatics and domain generalization**
 - 👯 I’m looking to collaborate on **ML research projects, academic publications, or open-source AI tools**
 - 🤔 I’m looking for help with **creating generalized models that handle novel classes and domains**
 - 💬 Ask me about **semantic segmentation, contrastive learning, GANs, or setting up ML pipelines**
@@ -15,9 +14,8 @@ Welcome to my GitHub! I'm a curious builder, coder, and researcher exploring the
 - ⚡ Fun fact: I’m probably the only person alive who enjoys debugging and writing documentation equally 🤓
 
 ---
-
 ### 🛠️ Tech Stack
-- **Languages:** Python, R, JavaScript, C++
+- **Languages:** Python, C/C++, Java, R
 - **Frameworks & Libraries:** PyTorch, TensorFlow, HuggingFace Transformers, OpenCV, FastAPI, Flask, Node.js
 - **Tools & Platforms:** Git, Docker, Linux, VSCode, Jupyter, Google Colab
 - **Research Interests:** Domain Generalization, Hyperbolic Embedding, Meta-Learning, Vision-Language Models
